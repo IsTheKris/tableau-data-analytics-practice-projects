@@ -2,7 +2,7 @@
 
 This repository contains small projects I've done to practice data analysis, visualization, and reporting.
 
-Tableau Public : [link to profile](https://public.tableau.com/app/profile/krishnakumar.k.s)
+Go to my Tableau Public profile [here](https://public.tableau.com/app/profile/krishnakumar.k.s)
 
 ## Projects
 
