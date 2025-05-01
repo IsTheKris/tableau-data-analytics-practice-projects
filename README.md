@@ -7,4 +7,4 @@ Tableau Public : [link to profile](https://public.tableau.com/app/profile/krishn
 ## Projects
 
 - **Lighting Strikes**  
-  Tools: Tableau, Excel  
+  Tools: Tableau, Python
