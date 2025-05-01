@@ -6,3 +6,4 @@ This repository contains small projects I've done to practice data analysis, vis
 
 - **Lighting Strikes**  
   Tools: Tableau, Excel  
+[tableau public link](https://public.tableau.com/app/profile/krishnakumar.k.s)
